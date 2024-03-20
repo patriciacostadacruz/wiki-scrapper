@@ -22,3 +22,6 @@ go.work
 
 # Testing
 .vscode*
+
+# Results and files
+article-data.json
