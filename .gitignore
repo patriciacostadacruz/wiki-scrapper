@@ -25,3 +25,6 @@ go.work
 
 # Results and files
 article-data.json
+
+# Secret variables 
+.env
