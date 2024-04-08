@@ -24,7 +24,7 @@ go.work
 .vscode*
 
 # Results and files
-article-data.json
+articles-data.json
 
 # Secret variables 
 .env
